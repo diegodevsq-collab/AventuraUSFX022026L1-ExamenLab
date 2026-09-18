@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AventuraUSFX022026L1",
+			"Path": "C:\\Users\\diego\\Documents\\Unreal Projects\\AventuraUSFX022026L1-master2\\AventuraUSFX022026L1-master\\Source\\AventuraUSFX022026L1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AventuraUSFX022026L1Editor",
+			"Path": "C:\\Users\\diego\\Documents\\Unreal Projects\\AventuraUSFX022026L1-master2\\AventuraUSFX022026L1-master\\Source\\AventuraUSFX022026L1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+C:\Users\diego\Documents\Unreal Projects\AventuraUSFX022026L1-master2\AventuraUSFX022026L1-master\Intermediate\Build\Win64\UE4Editor\Development\AventuraUSFX022026L1\Definitions.AventuraUSFX022026L1.h
+C:\Users\diego\Documents\Unreal Projects\AventuraUSFX022026L1-master2\AventuraUSFX022026L1-master\Source\AventuraUSFX022026L1\PlataformaSubterranea.h
+C:\Users\diego\Documents\Unreal Projects\AventuraUSFX022026L1-master2\AventuraUSFX022026L1-master\Source\AventuraUSFX022026L1\Plataforma.h
+C:\Users\diego\Documents\Unreal Projects\AventuraUSFX022026L1-master2\AventuraUSFX022026L1-master\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\Plataforma.generated.h
+C:\Users\diego\Documents\Unreal Projects\AventuraUSFX022026L1-master2\AventuraUSFX022026L1-master\Intermediate\Build\Win64\UE4Editor\Inc\AventuraUSFX022026L1\PlataformaSubterranea.generated.h
